@@ -27,7 +27,7 @@ class Program
         while (running)
         {
             Console.Clear();
-            Console.WriteLine("=== EMPLOYEE PAYROLL & HR MANAGEMENT ===");
+            Console.WriteLine("=== EMPLOYEE PAYROLL & HR MANAGEMENT (MAIN) ===");
             Console.WriteLine("1. Create (Add Employee)");
             Console.WriteLine("2. Read (View All Employees)");
             Console.WriteLine("3. Search/Filter Employees");
@@ -90,7 +90,7 @@ class Program
         decimal.TryParse(Console.ReadLine(), out decimal monthlySalary);
         
         Console.Write("Enter Tax Rate (e.g., 0.12): ");
-        double.TryParse(Console.ReadLine(), out double taxRate);
+        double.TryParse(Console.ReadLine(),out double taxRate);
         
         Console.Write("Enter Hire Date (YYYY-MM-DD): ");
         DateTime.TryParse(Console.ReadLine(), out DateTime hireDate);
