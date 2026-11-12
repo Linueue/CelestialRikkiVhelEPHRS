@@ -1,0 +1,15 @@
+C:\dev\Projects\csharp\appdev\CelestialRikkiVhelEPHRS\bin\Debug\net10.0\CelestialRikkiVhelEPHRS.exe
+C:\dev\Projects\csharp\appdev\CelestialRikkiVhelEPHRS\bin\Debug\net10.0\CelestialRikkiVhelEPHRS.deps.json
+C:\dev\Projects\csharp\appdev\CelestialRikkiVhelEPHRS\bin\Debug\net10.0\CelestialRikkiVhelEPHRS.runtimeconfig.json
+C:\dev\Projects\csharp\appdev\CelestialRikkiVhelEPHRS\bin\Debug\net10.0\CelestialRikkiVhelEPHRS.dll
+C:\dev\Projects\csharp\appdev\CelestialRikkiVhelEPHRS\bin\Debug\net10.0\CelestialRikkiVhelEPHRS.pdb
+C:\dev\Projects\csharp\appdev\CelestialRikkiVhelEPHRS\obj\Debug\net10.0\CelestialRikkiVhelEPHRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Projects\csharp\appdev\CelestialRikkiVhelEPHRS\obj\Debug\net10.0\CelestialRikkiVhelEPHRS.AssemblyInfoInputs.cache
+C:\dev\Projects\csharp\appdev\CelestialRikkiVhelEPHRS\obj\Debug\net10.0\CelestialRikkiVhelEPHRS.AssemblyInfo.cs
+C:\dev\Projects\csharp\appdev\CelestialRikkiVhelEPHRS\obj\Debug\net10.0\CelestialRikkiVhelEPHRS.csproj.CoreCompileInputs.cache
+C:\dev\Projects\csharp\appdev\CelestialRikkiVhelEPHRS\obj\Debug\net10.0\CelestialRikkiVhelEPHRS.sourcelink.json
+C:\dev\Projects\csharp\appdev\CelestialRikkiVhelEPHRS\obj\Debug\net10.0\CelestialRikkiVhelEPHRS.dll
+C:\dev\Projects\csharp\appdev\CelestialRikkiVhelEPHRS\obj\Debug\net10.0\refint\CelestialRikkiVhelEPHRS.dll
+C:\dev\Projects\csharp\appdev\CelestialRikkiVhelEPHRS\obj\Debug\net10.0\CelestialRikkiVhelEPHRS.pdb
+C:\dev\Projects\csharp\appdev\CelestialRikkiVhelEPHRS\obj\Debug\net10.0\CelestialRikkiVhelEPHRS.genruntimeconfig.cache
+C:\dev\Projects\csharp\appdev\CelestialRikkiVhelEPHRS\obj\Debug\net10.0\ref\CelestialRikkiVhelEPHRS.dll
